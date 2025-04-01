@@ -1,3 +1,9 @@
+/*!
+ * JukeBoXT - Web Jukebox
+ * © 2025 Vaishnavi Gudimella. Licensed under the MIT License.
+ * See LICENSE file for details.
+ */
+
 // Select elements
 const playButton = document.getElementById("play");
 const pauseButton = document.getElementById("pause");
